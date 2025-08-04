@@ -29,7 +29,6 @@
             <div class="row">
               <div class="col-12">
                 <a href="/" class="menu-link d-block">Home</a>
-                <a href="/about" class="menu-link d-block">About</a>
                 <a href="/signup" class="menu-link d-block">Sign Up</a>
                 <a href="/signin" class="menu-link d-block">Sign In</a>
               </div>
